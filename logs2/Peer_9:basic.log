@@ -1,0 +1,79 @@
+Peer_9:basic WARNING 0: Not enough peers, fetching more (0, 4)
+Peer_9:basic INFO 1.3906682036599682: Connecting to Peer_11:bootstrap
+Peer_9:basic INFO 2.3595779225112774: Received message <Hello:> from Peer_11:bootstrap
+Peer_9:basic INFO 2.5754882311563985: Received message <RequestPeers:> from Peer_11:bootstrap
+Peer_9:basic INFO 2.5754882311563985: Sending message <PeerList> to Peer_11:bootstrap
+Peer_9:basic WARNING 500: Not enough peers, fetching more (1, 4)
+Peer_9:basic INFO 500: Sending message <RequestPeers:> to Peer_11:bootstrap
+Peer_9:basic INFO 501.21792672867934: Received message <PeerList> from Peer_11:bootstrap
+Peer_9:basic WARNING 1000: Not enough peers, fetching more (1, 4)
+Peer_9:basic INFO 1000: Sending message <RequestPeers:> to Peer_11:bootstrap
+Peer_9:basic INFO 1002.313468131205: Received message <PeerList> from Peer_11:bootstrap
+Peer_9:basic INFO 1004.5763472513215: Connecting to Peer_6:basic
+Peer_9:basic INFO 1010.6455857190339: Received message <RequestPeers:> from Peer_6:basic
+Peer_9:basic INFO 1010.6455857190339: Sending message <PeerList> to Peer_6:basic
+Peer_9:basic INFO 1012.3174896327195: Received message <Hello:> from Peer_6:basic
+Peer_9:basic WARNING 1500: Not enough peers, fetching more (2, 4)
+Peer_9:basic INFO 1500: Sending message <RequestPeers:> to Peer_11:bootstrap
+Peer_9:basic INFO 1500: Sending message <RequestPeers:> to Peer_6:basic
+Peer_9:basic INFO 1500.2987052259423: Received message <RequestPeers:> from Peer_11:bootstrap
+Peer_9:basic INFO 1500.2987052259423: Sending message <PeerList> to Peer_11:bootstrap
+Peer_9:basic INFO 1501.37262406051: Connecting to Peer_1:basic
+Peer_9:basic INFO 1501.9361818875211: Received message <PeerList> from Peer_11:bootstrap
+Peer_9:basic INFO 1502.1850388962175: Received message <RequestPeers:> from Peer_1:basic
+Peer_9:basic INFO 1502.1850388962175: Sending message <PeerList> to Peer_1:basic
+Peer_9:basic INFO 1502.243775714807: Received message <Hello:> from Peer_1:basic
+Peer_9:basic INFO 1506.899042317742: Received message <RequestPeers:> from Peer_6:basic
+Peer_9:basic INFO 1506.899042317742: Sending message <PeerList> to Peer_6:basic
+Peer_9:basic INFO 1511.6530091660156: Received message <PeerList> from Peer_6:basic
+Peer_9:basic WARNING 2000: Not enough peers, fetching more (3, 4)
+Peer_9:basic INFO 2001.073523746302: Connecting to Peer_10:basic
+Peer_9:basic INFO 2001.904280504058: Received message <Hello:> from Peer_10:basic
+Peer_9:basic INFO 2002.33855323707: Received message <RequestPeers:> from Peer_10:basic
+Peer_9:basic INFO 2002.33855323707: Sending message <PeerList> to Peer_10:basic
+Peer_9:basic INFO 2500: Sending message <Ping:> to Peer_11:bootstrap
+Peer_9:basic INFO 2500: Sending message <Ping:> to Peer_6:basic
+Peer_9:basic INFO 2500: Sending message <Ping:> to Peer_1:basic
+Peer_9:basic INFO 2501.0187845821547: Received message <Ping:> from Peer_1:basic
+Peer_9:basic INFO 2501.0187845821547: Sending message <Pong:> to Peer_1:basic
+Peer_9:basic INFO 2501.5174752337275: Received message <Ping:> from Peer_11:bootstrap
+Peer_9:basic INFO 2501.5174752337275: Sending message <Pong:> to Peer_11:bootstrap
+Peer_9:basic INFO 2501.6942219453754: Received message <Pong:> from Peer_11:bootstrap
+Peer_9:basic INFO 2502.2639594046686: Received message <Pong:> from Peer_1:basic
+Peer_9:basic INFO 2507.1412172060404: Received message <Ping:> from Peer_6:basic
+Peer_9:basic INFO 2507.1412172060404: Sending message <Pong:> to Peer_6:basic
+Peer_9:basic INFO 2510.6182509784126: Received message <Pong:> from Peer_6:basic
+Peer_9:basic INFO 3000: Sending message <Ping:> to Peer_10:basic
+Peer_9:basic INFO 3000.9766120219238: Received message <Ping:> from Peer_10:basic
+Peer_9:basic INFO 3000.9766120219238: Sending message <Pong:> to Peer_10:basic
+Peer_9:basic INFO 3002.7030693913343: Received message <Pong:> from Peer_10:basic
+Peer_9:basic INFO 3500: Sending message <Ping:> to Peer_11:bootstrap
+Peer_9:basic INFO 3500: Sending message <Ping:> to Peer_6:basic
+Peer_9:basic INFO 3500: Sending message <Ping:> to Peer_1:basic
+Peer_9:basic INFO 3501.0053424625376: Received message <Ping:> from Peer_11:bootstrap
+Peer_9:basic INFO 3501.0053424625376: Sending message <Pong:> to Peer_11:bootstrap
+Peer_9:basic INFO 3501.391374254366: Received message <Ping:> from Peer_1:basic
+Peer_9:basic INFO 3501.391374254366: Sending message <Pong:> to Peer_1:basic
+Peer_9:basic INFO 3501.84026804852: Received message <Pong:> from Peer_1:basic
+Peer_9:basic INFO 3502.0566779039737: Received message <Pong:> from Peer_11:bootstrap
+Peer_9:basic INFO 3506.5728881072855: Received message <Ping:> from Peer_6:basic
+Peer_9:basic INFO 3506.5728881072855: Sending message <Pong:> to Peer_6:basic
+Peer_9:basic INFO 3513.4638076115466: Received message <Pong:> from Peer_6:basic
+Peer_9:basic INFO 4000: Sending message <Ping:> to Peer_10:basic
+Peer_9:basic INFO 4001.009313585388: Received message <Ping:> from Peer_10:basic
+Peer_9:basic INFO 4001.009313585388: Sending message <Pong:> to Peer_10:basic
+Peer_9:basic INFO 4001.845972652704: Received message <Pong:> from Peer_10:basic
+Peer_9:basic INFO 4500: Sending message <Ping:> to Peer_11:bootstrap
+Peer_9:basic INFO 4500: Sending message <Ping:> to Peer_6:basic
+Peer_9:basic INFO 4500: Sending message <Ping:> to Peer_1:basic
+Peer_9:basic INFO 4500.439527580757: Received message <Ping:> from Peer_11:bootstrap
+Peer_9:basic INFO 4500.439527580757: Sending message <Pong:> to Peer_11:bootstrap
+Peer_9:basic INFO 4500.838112112606: Received message <Ping:> from Peer_1:basic
+Peer_9:basic INFO 4500.838112112606: Sending message <Pong:> to Peer_1:basic
+Peer_9:basic INFO 4500.874230749723: Received message <RequestPeers:> from Peer_11:bootstrap
+Peer_9:basic INFO 4500.874230749723: Sending message <PeerList> to Peer_11:bootstrap
+Peer_9:basic INFO 4501.635242931418: Received message <Pong:> from Peer_11:bootstrap
+Peer_9:basic INFO 4502.214362853545: Received message <Pong:> from Peer_1:basic
+Peer_9:basic INFO 4507.140159707393: Received message <Ping:> from Peer_6:basic
+Peer_9:basic INFO 4507.140159707393: Sending message <Pong:> to Peer_6:basic
+Peer_9:basic INFO 4509.975431214962: Received message <Pong:> from Peer_6:basic
